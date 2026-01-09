@@ -66,7 +66,7 @@ Vérifier : git status
 ## 10. Créer une Pull Request
 
 -   Rendez-vous sur :
-    https://github.com/thom1100/GitHub_assignments/pulls
+    [https://github.com/thom1100/GitHub_assignments/pulls](https://github.com/thom1100/GitHub_assignement/pulls)
     
     Créez une PR depuis votre branche vers `main` du repo original.
 
