@@ -11,7 +11,7 @@ Carriou Manech
 Debard Hugo
 Delattre Alexandre
 de l'Epine Victor
-Diallo-Dou Louis
+Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
 Dorn Maximilien
 Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
