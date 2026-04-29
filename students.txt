@@ -11,30 +11,28 @@ Carriou Manech
 Debard Hugo
 Delattre Alexandre
 de l'Epine Victor
-Diallo-Dou Louis
+Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
 Dorn Maximilien
-Fernandez de la Vega Émilie
+Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
 Fortier Lou-Anne https://github.com/lfortier-collab/ml-poc-project
-Guesnier-Maleterre Louise
+Guesnier-Maleterre Louise https://github.com/lguesnier-cell/ml-poc-project
 Fortier Lou-Anne
 JaskulkÃ© Flore
 Lallau Ilyes
 Landry Madeleine
-Lhoest Hugo
-Libourel Justine
+Lhoest Hugo - https://github.com/hlho-albert/ml-poc-project
+Libourel Justine - https://github.com/justinelbr6/ml-poc-project
 Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
 Marlier Robin
 Pereira Mario
 Reibel Baptiste
-Rousseau Thomas
-SauvÃ© Antoine
+Rousseau Thomas https://github.com/thomasssrss/ml-poc-project/tree/main
+Sauvé Antoine
 Reibel Baptiste
-Rousseau Thomas
-SauvÃ© Antoine
 Schneersohn Nathan
 Viallet Milan
-Vicente Matheo
+Vicente Matheo https://github.com/matheovicente/ml-poc-project/tree/main
 Wang Leo
 Wangrevelain Joseph
