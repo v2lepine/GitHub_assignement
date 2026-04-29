@@ -1,40 +1,37 @@
 ﻿Milcent Thomas - https://github.com/thom1100/ml-poc-project/tree/main
-Abdo Joseph
+Abdo Joseph - https://github.com/le-djo/GitHub_assignement/blob/main/students.txt
 Aidan Annaelle
 Attia Noa
 Benaim Lior
 Capone LÃ©o
-Cardona Monget Milo
+Cardona Monget Milo - https://github.com/plutoskio/ml-poc-project/tree/main
 Carriou Manech
-Debard Hugo
+Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Carriou Manech
 Debard Hugo
 Delattre Alexandre
-de l'Epine Victor
-Diallo-Dou Louis
+de l'Epine Victor - https://github.com/v2lepine/GitHub_assignement/blob/main/students.txt
+Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
 Dorn Maximilien
-Fernandez de la Vega Émilie
+Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
-Fortier Lou-Anne
-Guesnier-Maleterre Louise
+Fortier Lou-Anne https://github.com/lfortier-collab/ml-poc-project
+Guesnier-Maleterre Louise https://github.com/lguesnier-cell/ml-poc-project
 Fortier Lou-Anne
 JaskulkÃ© Flore
 Lallau Ilyes
 Landry Madeleine
-Lhoest Hugo
-Libourel Justine
-Lounis Amine
+Lhoest Hugo - https://github.com/hlho-albert/ml-poc-project
+Libourel Justine - https://github.com/justinelbr6/ml-poc-project
+Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
 Marlier Robin
 Pereira Mario
 Reibel Baptiste
-Rousseau Thomas
-SauvÃ© Antoine
-Reibel Baptiste
-Rousseau Thomas
-SauvÃ© Antoine
+Rousseau Thomas https://github.com/thomasssrss/ml-poc-project/tree/main
+Sauvé Antoine
 Schneersohn Nathan - https://github.com/nathanpro-prog/ml-poc-project/tree/main
 Viallet Milan
-Vicente Matheo
+Vicente Matheo https://github.com/matheovicente/ml-poc-project/tree/main
 Wang Leo
 Wangrevelain Joseph
