@@ -30,8 +30,7 @@ Pereira Mario
 Reibel Baptiste
 Rousseau Thomas https://github.com/thomasssrss/ml-poc-project/tree/main
 Sauvé Antoine
-Reibel Baptiste
-Schneersohn Nathan
+Schneersohn Nathan - https://github.com/nathanpro-prog/ml-poc-project/tree/main
 Viallet Milan
 Vicente Matheo https://github.com/matheovicente/ml-poc-project/tree/main
 Wang Leo
