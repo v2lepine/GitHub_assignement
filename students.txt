@@ -22,7 +22,7 @@ JaskulkÃ© Flore
 Lallau Ilyes
 Landry Madeleine
 Lhoest Hugo
-Libourel Justine
+Libourel Justine - https://github.com/justinelbr6/ml-poc-project
 Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
 Marlier Robin
