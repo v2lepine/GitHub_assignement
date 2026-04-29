@@ -10,7 +10,7 @@ Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Carriou Manech
 Debard Hugo
 Delattre Alexandre
-de l'Epine Victor
+de l'Epine Victor - https://github.com/v2lepine/GitHub_assignement/blob/main/students.txt
 Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
 Dorn Maximilien
 Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
