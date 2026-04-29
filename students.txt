@@ -37,4 +37,5 @@ Schneersohn Nathan
 Viallet Milan
 Vicente Matheo
 Wang Leo
-Wangrevelain Joseph
+Wangrevelain Joseph https://github.com/jwangrevelain-hue/ml-poc-project-jw/tree/main
+
