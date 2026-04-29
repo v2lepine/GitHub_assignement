@@ -16,7 +16,7 @@ Dorn Maximilien
 Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
 Flasaquier Simon
 Fortier Lou-Anne
-Guesnier-Maleterre Louise
+Guesnier-Maleterre Louise https://github.com/lguesnier-cell/ml-poc-project
 Fortier Lou-Anne
 JaskulkÃ© Flore
 Lallau Ilyes
