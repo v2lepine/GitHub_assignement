@@ -21,7 +21,7 @@ Fortier Lou-Anne
 JaskulkÃ© Flore
 Lallau Ilyes
 Landry Madeleine
-Lhoest Hugo
+Lhoest Hugo - https://github.com/hlho-albert/ml-poc-project
 Libourel Justine
 Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
