@@ -8,7 +8,7 @@ Cardona Monget Milo - https://github.com/plutoskio/ml-poc-project/tree/main
 Carriou Manech
 Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Delattre Alexandre
-de l'Epine Victor - https://github.com/v2lepine/GitHub_assignement/blob/main/students.txt
+de l'Epine Victor - https://github.com/v2lepine/ml-poc-project
 Diallo-Dou Louis - https://github.com/m3pr1x/ml-poc-project
 Dorn Maximilien
 Fernandez de la Vega Émilie - https://github.com/emiliefdelavega-cyber/ml-poc-project
