@@ -35,6 +35,6 @@ Rousseau Thomas
 SauvÃ© Antoine
 Schneersohn Nathan
 Viallet Milan
-Vicente Matheo
+Vicente Matheo https://github.com/matheovicente/ml-poc-project/tree/main
 Wang Leo
 Wangrevelain Joseph
