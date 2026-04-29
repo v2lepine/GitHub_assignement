@@ -29,12 +29,11 @@ Marlier Robin
 Pereira Mario
 Reibel Baptiste
 Rousseau Thomas
-SauvÃ© Antoine X
-Schneersohn Nathan X https://github.com/nathanpro-prog/GitHub_assignement/tree/main
 SauvÃ© Antoine
 Reibel Baptiste
 Rousseau Thomas
 SauvÃ© Antoine
+Schneersohn Nathan - https://github.com/nathanpro-prog/ml-poc-project/tree/main
 Viallet Milan
 Vicente Matheo
 Wang Leo
