@@ -2,7 +2,7 @@
 
 Cet exercice est basé sur [ce projet](https://github.com/mathurinm/github-assignment) maintenu par Mathurin Massias.
 
-## Si vous pouvez facilement accèder au dépôt cloné que vous aviez créer pour le cours de ML
+## Si vous pouvez facilement accèder au dépôt cloné que vous aviez créé pour le cours de ML
 
 - Mettez à jour votre working directory : git pull upstream main pour remettre à 0 les fichiers ReadMe et students.txt
 - Passez à l'étape 6
